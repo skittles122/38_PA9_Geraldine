@@ -1,0 +1,10 @@
+C:\Users\ASUS\Desktop\Schoolwork\38_PA9_Geraldine\38_Geraldine_PA9\38_Geraldine_PA9\bin\Debug\38_Geraldine_PA9.exe.config
+C:\Users\ASUS\Desktop\Schoolwork\38_PA9_Geraldine\38_Geraldine_PA9\38_Geraldine_PA9\bin\Debug\38_Geraldine_PA9.exe
+C:\Users\ASUS\Desktop\Schoolwork\38_PA9_Geraldine\38_Geraldine_PA9\38_Geraldine_PA9\bin\Debug\38_Geraldine_PA9.pdb
+C:\Users\ASUS\Desktop\Schoolwork\38_PA9_Geraldine\38_Geraldine_PA9\38_Geraldine_PA9\obj\Debug\38_Geraldine_PA9.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\Schoolwork\38_PA9_Geraldine\38_Geraldine_PA9\38_Geraldine_PA9\obj\Debug\_38_Geraldine_PA9.Form1.resources
+C:\Users\ASUS\Desktop\Schoolwork\38_PA9_Geraldine\38_Geraldine_PA9\38_Geraldine_PA9\obj\Debug\_38_Geraldine_PA9.Properties.Resources.resources
+C:\Users\ASUS\Desktop\Schoolwork\38_PA9_Geraldine\38_Geraldine_PA9\38_Geraldine_PA9\obj\Debug\38_Geraldine_PA9.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\Schoolwork\38_PA9_Geraldine\38_Geraldine_PA9\38_Geraldine_PA9\obj\Debug\38_Geraldine_PA9.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Schoolwork\38_PA9_Geraldine\38_Geraldine_PA9\38_Geraldine_PA9\obj\Debug\38_Geraldine_PA9.exe
+C:\Users\ASUS\Desktop\Schoolwork\38_PA9_Geraldine\38_Geraldine_PA9\38_Geraldine_PA9\obj\Debug\38_Geraldine_PA9.pdb
