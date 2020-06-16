@@ -41,12 +41,11 @@ namespace _38_Geraldine_PA9
                         ConvertedAmt = (UserInput * 81.97);
                         txt_Converted.Text = ConvertedAmt.ToString();
                     }
-                    //else if (rb_Ringgit.Checked)
-                    //{
-                    //    ConvertedAmt = (UserInput * 3.01);
-                    //    txt_Converted.Text = ConvertedAmt.ToString();
-
-                    //}
+                    else if (rb_MY.Checked)
+                    {
+                        ConvertedAmt = (UserInput * 3.01);
+                        txt_Converted.Text = ConvertedAmt.ToString();
+                    }
                     else
                     {
                         txt_Converted.Text = "Please Select Currency!";
@@ -65,6 +64,11 @@ namespace _38_Geraldine_PA9
             txt_Converted.Clear();
             rb_US.Checked = false;
             rb_Yen.Checked = false;
+        }
+
+        private void rb_MY_CheckedChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }
